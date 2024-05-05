@@ -1,5 +1,6 @@
 Hi , I am Rohan Sharma.
-I am currently working on JavaScript and learning Data Structures And Algorithms(DSA).
+I enjoy web development and competitive programming.
+I am currently learning JavaScript and complex data structures and algorithms.
 
 <!--
 **rohnoan/rohnoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
